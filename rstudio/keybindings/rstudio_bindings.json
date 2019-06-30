@@ -1,0 +1,6 @@
+{
+    "commentUncomment" : "Ctrl+/",
+    "executeAllCode" : "Ctrl+L",
+    "reformatCode" : "Ctrl+K",
+    "renameInScope" : "Ctrl+K"
+}
